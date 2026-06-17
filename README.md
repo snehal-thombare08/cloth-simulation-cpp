@@ -32,9 +32,6 @@ A real-time physics-based cloth simulation built from scratch using **C++17** an
 | `Esc` | Quit |
 
 ---
-## screenshot
-![Cloth Simulation Preview](https://raw.githubusercontent.com/snehal-thombare08/cloth-simulation-cpp/main/Screenshot%202026-06-17%20105222.png)
-
 ## 🛠️ Tech Stack
 
 | Tool | Version |
